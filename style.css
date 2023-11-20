@@ -1,0 +1,39 @@
+body {
+    font-family: Coolvetica, Helvetica, sans-serif;
+    background: black;
+}
+
+.daftar {
+    background-color: white;
+    margin: 100px 400px 20px 400px;
+    text-align: center;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+form {
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+button {
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+table {
+    padding: 20px;
+    width: 100%;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+}
